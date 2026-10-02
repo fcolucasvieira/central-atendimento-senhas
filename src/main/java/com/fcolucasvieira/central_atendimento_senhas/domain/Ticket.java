@@ -23,4 +23,20 @@ public class Ticket {
 
         this.status = TicketStatus.AGUARDANDO;
     }
+
+    public long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public TicketType getType() {
+        return type;
+    }
+
+    public TicketStatus getStatus() {
+        return status;
+    }
 }
