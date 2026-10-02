@@ -1,7 +1,6 @@
 package com.fcolucasvieira.central_atendimento_senhas.repository;
 
 import com.fcolucasvieira.central_atendimento_senhas.domain.Ticket;
-import com.fcolucasvieira.central_atendimento_senhas.dto.CreateTicketRequest;
 
 import java.util.ArrayList;
 import java.util.List;
